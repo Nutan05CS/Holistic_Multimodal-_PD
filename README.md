@@ -1,5 +1,5 @@
 # Holistic_Multimodal-_PD
-1. Project Overview
+
 Title: HOLISTIC-PD: A Holistic Multimodal Framework for Quantifying Parkinson’s Disease Severity
 Goal: Develop an accurate prediction model for Parkinson's Disease (PD) tremor severity and overall PD severity using IMU sensor data and clinical data.
 Approach: You used feature selection techniques to identify the most relevant IMU features for predicting PD tremor severity and evaluated multiple machine learning models for performance.
